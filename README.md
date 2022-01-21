@@ -5,7 +5,8 @@
 * [Contents](#content)
 
 ## General Info
-This browser based web application to ...
+This browser based web application to ... (fill in this later)
+* Hi my name is Omar. I'm excited about this project because I can collaborate with my team and also to go through the scenarios on Git Conflict Resolution.
 	
 ## Technologies
 Technologies used for this project:
