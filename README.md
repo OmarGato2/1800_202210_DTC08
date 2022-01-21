@@ -6,6 +6,8 @@
 
 ## General Info
 This browser based web application to ...
+
+### ** * Hello, my name is Keanu. I'll show you how conflice happens. **
 	
 ## Technologies
 Technologies used for this project:
