@@ -5,13 +5,10 @@
 * [Contents](#content)
 
 ## General Info
-<<<<<<< HEAD
 This browser based web application to ... (fill in this later)
 *Hi my name is Omar. I'm excited about this project because I can collaborate with my team and also to go through the scenarios on Git Conflict Resolution.
-=======
 This browser based web application to ...
 Hi, my name is Rhys. I'm excited about working together on this project and building something interesting!
->>>>>>> cc5f4811c6a385fc207b75a5149a6b62c8cbcea3
 	
 ## Technologies
 Technologies used for this project:
