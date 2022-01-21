@@ -6,6 +6,7 @@
 
 ## General Info
 This browser based web application to ...
+Hi, my name is Rhys. I'm excited about working together on this project and building something interesting!
 	
 ## Technologies
 Technologies used for this project:
