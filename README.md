@@ -7,7 +7,7 @@
 ## General Info
 <<<<<<< HEAD
 This browser based web application to ... (fill in this later)
-* Hi my name is Omar. I'm excited about this project because I can collaborate with my team and also to go through the scenarios on Git Conflict Resolution.
+*Hi my name is Omar. I'm excited about this project because I can collaborate with my team and also to go through the scenarios on Git Conflict Resolution.
 =======
 This browser based web application to ...
 Hi, my name is Rhys. I'm excited about working together on this project and building something interesting!
