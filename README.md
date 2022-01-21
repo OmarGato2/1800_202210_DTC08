@@ -6,11 +6,15 @@
 
 ## General Info
 This browser based web application to ...
+<<<<<<< HEAD
 
 * I add some sushi here :)
 
 
 * Hello, my name is Keanu. I'll show you how conflice happens.
+=======
+Hi, my name is Rhys. I'm excited about working together on this project and building something interesting!
+>>>>>>> refs/remotes/origin/main
 	
 ## Technologies
 Technologies used for this project:
